@@ -1,0 +1,5 @@
+print("hello human")
+print("The sun is hot")
+print(5+5)
+print("I am trying a new line \n")
+print(6+6)
